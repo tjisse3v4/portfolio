@@ -1,3 +1,18 @@
-h1{
-    font-size: large;
+body {
+  background: url("https://img.freepik.com/premium-vector/een-lichtblauwe-achtergrond-een-hemelsblauwe-achtergrund_851674-52.jpg?semt=ais_hybrid&w=740&q=80"); */
+  background-attachment: fixed;
+  background-position: center;
+}
+
+header {
+  background-image: url("ijsblauwe-foto-achtergrond-plain.jpg");
+  background-position: center;
+  font-size: 400%;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: black;
+  text-align: center;
+  text-shadow: 5px 5px 7px #000000;
+  align-items: center;
+  background-repeat: no-repeat;
+  height: 100px;
 }
